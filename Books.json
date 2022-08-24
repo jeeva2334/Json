@@ -7,6 +7,13 @@
 			"image":"https://unsplash.com/photos/H-LIL57PHCc",
 			"quantity":1,
 			"author":"Jeeva"
+		},{
+			"id":2,
+			"name":"Life of pi",
+			"description":"This is a book for fetching",
+			"image":"https://unsplash.com/photos/H-LIL57PHCc",
+			"quantity":1,
+			"author":"Sanju"
 		}
 	]
 }
